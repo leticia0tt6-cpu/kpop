@@ -59,8 +59,8 @@ nav a {
                                                                                 }
 
                                                                                 aside img {
-                                                                                    width:  800px;
-                                                                                        height: 800px;
+                                                                                    width:  900px;
+                                                                                        height: 700px;
                                                                                             margin: 5px 0px;
                                                                                             }
 
@@ -70,12 +70,12 @@ nav a {
                                                                                                     }
 
                                                                                                     aside p {
-                                                                                                            font-size: 25px;
+                                                                                                            font-size: 20px;
                                                                                                                 margin: 10px 0px;
                                                                                                                 }
 
                                                                                                                 aside h2 {
-                                                                                                                    font-size: 20px;
+                                                                                                                    font-size: 25px;
                                                                                                                         margin: 10px 0px;
                                                                                                                         }
 
@@ -99,7 +99,7 @@ nav a {
                                                                                                                                                                 }
 
                                                                                                                                                                 article img {
-                                                                                                                                                                        width: 700px;
+                                                                                                                                                                
                                                                                                                                                                             height: 700px;
                                                                                                                                                                                 width: 100%;
                                                                                                                                                                                     margin-bottom: 30px;
@@ -127,7 +127,7 @@ nav a {
 
                                                                                                                                                                                                                flex-direction: column;
                                                                                                                                                                                                                position: relative;
-                                                                                                                                                                                                               text-align: center;
+                                                                                                                                                                                                            
                                                                                                                                                                                                              
                                                                                                                                                                                                             } 
                                                                                                                                                                                                              }
@@ -135,6 +135,8 @@ nav a {
                                                                                                                                                                                                              .row aside {
 
                                                                                                                                                                                                                 flex: 100%
+                                                                                                                                                                                                        
+                                                                                                                                                                                                            
                                                                                                                                                                                                         
                                                                                                                                                                                                              }
 
